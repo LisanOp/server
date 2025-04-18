@@ -1,4 +1,5 @@
 const mineflayer = require('mineflayer')
+const keep_alive = require('./keep_alive.js')
 function createBot () {
 const bot = mineflayer.createBot({
   host: 'LifeStealGoNPC.aternos.me', //ACA VA LA IP DE TU SERVIDOR  // SERVER IP
