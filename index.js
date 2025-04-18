@@ -3,8 +3,8 @@ const keep_alive = require('./keep_alive.js')
 function createBot () {
 const bot = mineflayer.createBot({
   host: 'LifeStealGoNPC.aternos.me', //ACA VA LA IP DE TU SERVIDOR  // SERVER IP
-  username: 'Not_Bot', // ACA VA EL NOMBRE DEL BOT  // BOT NAME
-  port: 54406, // PUERTO DEL SERVIDOR // SERVER PORT
+  username: 'Afk_Bot', // ACA VA EL NOMBRE DEL BOT  // BOT NAME
+  port: 37313, // PUERTO DEL SERVIDOR // SERVER PORT
   version: '1.16.5',
 })
 
